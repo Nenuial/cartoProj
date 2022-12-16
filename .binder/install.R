@@ -1,3 +1,6 @@
 install.packages("tidyverse")
 install.packages("stars")
 install.packages("sf")
+install.packages("rnaturalearth")
+install.packages("santoku")
+install.packages("wbstats")
