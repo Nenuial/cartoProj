@@ -2,6 +2,7 @@ library(tidyverse)
 library(sf)
 library(rnaturalearth)
 library(wbstats)
+library(santoku)
 
 donnees_carte <- wb_data("SH.IMM.MEAS", start_date = 2018)
 
